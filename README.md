@@ -30,7 +30,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![imagen](https://github.com/Miller1999/countdown-timer/assets/22383830/e92d42d1-e495-4e2d-a2b1-bfaccfcb30a6)
+![imagen](https://github.com/Miller1999/countdown-timer/assets/22383830/e7fee7be-abad-49da-b131-60b16a8d7b96)
+
+
+
 
 
 ### Links
