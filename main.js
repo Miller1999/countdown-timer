@@ -68,7 +68,7 @@ function countDown() {
 	let countS = 60;
 	let countM = 59;
 	let countH = 23;
-	let countD = 99;
+	let countD = 14;
 
 	const counter = setInterval(() => {
 		countS--;
